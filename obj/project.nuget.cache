@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tuNOSdXa0RUp9oyVjXk/ifVchylDmnSZLpqAgyUuCcV4bN4QVupp0Stj6/ySlFXrV1Qr98qyrlb9H5DhuxZdVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\point\\OneDrive\\Desktop\\app\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\point\\.nuget\\packages\\csvhelper\\31.0.0\\csvhelper.31.0.0.nupkg.sha512",
+    "C:\\Users\\point\\.nuget\\packages\\system.linq.async\\4.0.0\\system.linq.async.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
